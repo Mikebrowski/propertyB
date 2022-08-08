@@ -1,1 +1,13 @@
 /* You can add global styles to this file, and also import other style files */
+
+/* THE NEW SOLUTION IS THIS  */
+/*
+// Installation for Angular CLI
+ng add @ng-bootstrap/ng-bootstrap
+*/
+
+/*@import "~bootstrap/dist/css/boostrap.css"; DOESNT WORK*/
+
+body{
+    padding: 20px;
+}
